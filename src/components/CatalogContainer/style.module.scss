@@ -1,0 +1,14 @@
+.sliderTypes {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+    width: 100%;
+    gap: 10px;
+    margin: 20px;
+}
+
+@media (max-width: 600px) {
+    .sliderTypes {
+        gap: 5px;
+        grid-template-columns: repeat(auto-fill, minmax(66px, 1fr));
+    }
+}

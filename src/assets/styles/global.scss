@@ -1,0 +1,46 @@
+/* src/assets/styles/global.scss
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap'); */
+
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  color: #ffffffde;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --bg: #F1F1F1;
+  --bc: #F0F0F0;
+  --bb: #C6C6C6;
+  --tc: #666666;
+}
+
+body.dark-theme {
+  --bg: black;
+  --bc: #000000;
+  --bb: #666666;
+  --tc: #666666;
+}
+
+* {
+  box-sizing: border-box;
+  outline: none;
+  margin: 0;
+  padding: 0;
+  scrollbar-width: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+  list-style: none;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: var(--bg);
+  font-family: 'Inter', serif;
+}

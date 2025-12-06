@@ -1,0 +1,2166 @@
+{
+    "categories": [
+      {
+        "Category_ID": 276,
+        "Category_Image": "",
+        "Category_Name": "новая тестовая а",
+        "category_images": [
+          {
+            "name": "",
+            "type": "",
+            "url": "https://s3.twcstorage./noxer/user_files/c7cc78ea32de7234c2b6e15254719447.jpg"
+          }
+        ],
+        "parent_category_id": null,
+        "sort_order": 169
+      },
+      {
+        "Category_ID": 1,
+        "Category_Image": "https://static-sda.ru/brandbot/menu/card1.png",
+        "Category_Name": "Техника",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 129
+      },
+      {
+        "Category_ID": 2,
+        "Category_Image": "https://static-sda.ru/brandbot/menu/card2.png",
+        "Category_Name": "Одеждаы",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 148
+      },
+      {
+        "Category_ID": 3,
+        "Category_Image": "https://static-sda.ru/brandbot/menu/card3.png",
+        "Category_Name": "Кроссовки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 149
+      },
+      {
+        "Category_ID": 4,
+        "Category_Image": "https://static-sda.ru/brandbot/menu/card4.png",
+        "Category_Name": "Сладости",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 150
+      },
+      {
+        "Category_ID": 5,
+        "Category_Image": "https://static-sda.ru/brandbot/menu/card5.png",
+        "Category_Name": "Наушники",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 151
+      },
+      {
+        "Category_ID": 19,
+        "Category_Image": "",
+        "Category_Name": "Часы",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 6
+      },
+      {
+        "Category_ID": 20,
+        "Category_Image": "",
+        "Category_Name": "Сумки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 93
+      },
+      {
+        "Category_ID": 21,
+        "Category_Image": "",
+        "Category_Name": "Очки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 94
+      },
+      {
+        "Category_ID": 22,
+        "Category_Image": "",
+        "Category_Name": "Одежда",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 95
+      },
+      {
+        "Category_ID": 23,
+        "Category_Image": "",
+        "Category_Name": "обувь",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 96
+      },
+      {
+        "Category_ID": 24,
+        "Category_Image": "",
+        "Category_Name": "кошельки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 97
+      },
+      {
+        "Category_ID": 25,
+        "Category_Image": "",
+        "Category_Name": "парфюм",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 98
+      },
+      {
+        "Category_ID": 26,
+        "Category_Image": "",
+        "Category_Name": "гаджеты",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 99
+      },
+      {
+        "Category_ID": 29,
+        "Category_Image": "https://static-sda.ru/brandbot/menu/card4.png",
+        "Category_Name": "test category",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 152
+      },
+      {
+        "Category_ID": 31,
+        "Category_Image": "",
+        "Category_Name": "Рюкзаки ",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 154
+      },
+      {
+        "Category_ID": 54,
+        "Category_Image": "https://snipp.ru/uploads/images/donut.png",
+        "Category_Name": "ТЕстовая категорий",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 130
+      },
+      {
+        "Category_ID": 55,
+        "Category_Image": "",
+        "Category_Name": "Упаковка расходники",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 131
+      },
+      {
+        "Category_ID": 56,
+        "Category_Image": "",
+        "Category_Name": "срезка",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 132
+      },
+      {
+        "Category_ID": 57,
+        "Category_Image": "",
+        "Category_Name": "вазы",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 133
+      },
+      {
+        "Category_ID": 58,
+        "Category_Image": "",
+        "Category_Name": "пакеты",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 134
+      },
+      {
+        "Category_ID": 59,
+        "Category_Image": "",
+        "Category_Name": "комнатные растения",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 135
+      },
+      {
+        "Category_ID": 60,
+        "Category_Image": "",
+        "Category_Name": "свечи",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 136
+      },
+      {
+        "Category_ID": 61,
+        "Category_Image": "",
+        "Category_Name": "воздушные шары",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 137
+      },
+      {
+        "Category_ID": 62,
+        "Category_Image": "",
+        "Category_Name": "Доп.товары под реализацию",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 138
+      },
+      {
+        "Category_ID": 63,
+        "Category_Image": "",
+        "Category_Name": "сухоцветы",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 139
+      },
+      {
+        "Category_ID": 64,
+        "Category_Image": "",
+        "Category_Name": "земля",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 140
+      },
+      {
+        "Category_ID": 65,
+        "Category_Image": "",
+        "Category_Name": "корзины",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 141
+      },
+      {
+        "Category_ID": 66,
+        "Category_Image": "",
+        "Category_Name": "кашпо",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 142
+      },
+      {
+        "Category_ID": 67,
+        "Category_Image": "",
+        "Category_Name": "Сайт на тильде",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 143
+      },
+      {
+        "Category_ID": 68,
+        "Category_Image": "",
+        "Category_Name": "открытки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 144
+      },
+      {
+        "Category_ID": 69,
+        "Category_Image": "",
+        "Category_Name": "услуги",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 145
+      },
+      {
+        "Category_ID": 70,
+        "Category_Image": "",
+        "Category_Name": "сладкое",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 146
+      },
+      {
+        "Category_ID": 71,
+        "Category_Image": "",
+        "Category_Name": "Тест",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 147
+      },
+      {
+        "Category_ID": 73,
+        "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+        "Category_Name": "ТЕСТ",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 153
+      },
+      {
+        "Category_ID": 77,
+        "Category_Image": "https://noxer-test.ru/webapp/user_files/SUGARED-DONUT.png",
+        "Category_Name": "=)",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 100
+      },
+      {
+        "Category_ID": 78,
+        "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+        "Category_Name": "ТЕСТ1",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 159
+      },
+      {
+        "Category_ID": 158,
+        "Category_Image": "",
+        "Category_Name": "Икорница",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 66
+      },
+      {
+        "Category_ID": 159,
+        "Category_Image": "",
+        "Category_Name": "Супники Миски",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 67
+      },
+      {
+        "Category_ID": 160,
+        "Category_Image": "",
+        "Category_Name": "Масленки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 68
+      },
+      {
+        "Category_ID": 161,
+        "Category_Image": "",
+        "Category_Name": "Пашотница Кодлер12ям",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 69
+      },
+      {
+        "Category_ID": 162,
+        "Category_Image": "",
+        "Category_Name": "Копилки3ячсм",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 70
+      },
+      {
+        "Category_ID": 163,
+        "Category_Image": "",
+        "Category_Name": "Хлебница Корзинка",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 71
+      },
+      {
+        "Category_ID": 164,
+        "Category_Image": "",
+        "Category_Name": "Ложки2мя",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 72
+      },
+      {
+        "Category_ID": 165,
+        "Category_Image": "",
+        "Category_Name": "Креманка1фыа",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 73
+      },
+      {
+        "Category_ID": 166,
+        "Category_Image": "",
+        "Category_Name": "Детская посуда3фцуа",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 74
+      },
+      {
+        "Category_ID": 167,
+        "Category_Image": "",
+        "Category_Name": "Настольные лампы1фыва",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 75
+      },
+      {
+        "Category_ID": 243,
+        "Category_Image": "",
+        "Category_Name": "Вазыапыи",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 13
+      },
+      {
+        "Category_ID": 244,
+        "Category_Image": "",
+        "Category_Name": "Ведра для льдафЫВ",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 15
+      },
+      {
+        "Category_ID": 246,
+        "Category_Image": "",
+        "Category_Name": "Кувшины Горшкияпаф",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 1
+      },
+      {
+        "Category_ID": 247,
+        "Category_Image": "",
+        "Category_Name": "Винтажные столовые приборы",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 2
+      },
+      {
+        "Category_ID": 248,
+        "Category_Image": "",
+        "Category_Name": "Вилкичм",
+        "category_images": [],
+        "parent_category_id": 247,
+        "sort_order": 3
+      },
+      {
+        "Category_ID": 249,
+        "Category_Image": "",
+        "Category_Name": "Картины Книги",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 24
+      },
+      {
+        "Category_ID": 262,
+        "Category_Image": "",
+        "Category_Name": "Менажница3122",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 44
+      },
+      {
+        "Category_ID": 263,
+        "Category_Image": "",
+        "Category_Name": "Молочник Соусник1",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 56
+      },
+      {
+        "Category_ID": 272,
+        "Category_Image": "",
+        "Category_Name": "1231",
+        "category_images": null,
+        "parent_category_id": 271,
+        "sort_order": 168
+      },
+      {
+        "Category_ID": 90,
+        "Category_Image": "https://noxer-test.ru/webapp/user_files/100032817969b0.webp",
+        "Category_Name": "тестнрппарпрапрапрапрапрапрапрапрапрапрапрапрапрап",
+        "category_images": [
+          {
+            "name": "",
+            "type": "",
+            "url": "https://noxer-test.ru/webapp/user_files/11.jpeg"
+          }
+        ],
+        "parent_category_id": null,
+        "sort_order": 0
+      },
+      {
+        "Category_ID": 240,
+        "Category_Image": "",
+        "Category_Name": "ТарелкиЫВА",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 17
+      },
+      {
+        "Category_ID": 79,
+        "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+        "Category_Name": "ТЕСТ2",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 157
+      },
+      {
+        "Category_ID": 80,
+        "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+        "Category_Name": "ТЕСТ3",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 156
+      },
+      {
+        "Category_ID": 85,
+        "Category_Image": "",
+        "Category_Name": "Товары",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 160
+      },
+      {
+        "Category_ID": 89,
+        "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+        "Category_Name": "546",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 155
+      },
+      {
+        "Category_ID": 91,
+        "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
+        "Category_Name": "ТЕСТ11",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 158
+      },
+      {
+        "Category_ID": 93,
+        "Category_Image": "",
+        "Category_Name": "YAMAL HERO",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 101
+      },
+      {
+        "Category_ID": 94,
+        "Category_Image": "",
+        "Category_Name": "Сертификаты",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 102
+      },
+      {
+        "Category_ID": 95,
+        "Category_Image": "",
+        "Category_Name": "Шапки, перчатки, кепки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 103
+      },
+      {
+        "Category_ID": 96,
+        "Category_Image": "",
+        "Category_Name": "Цех Ноябрьск",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 104
+      },
+      {
+        "Category_ID": 97,
+        "Category_Image": "",
+        "Category_Name": "Штаны",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 105
+      },
+      {
+        "Category_ID": 98,
+        "Category_Image": "",
+        "Category_Name": "Футболки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 106
+      },
+      {
+        "Category_ID": 133,
+        "Category_Image": "",
+        "Category_Name": "Кувшин Графин21",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 31
+      },
+      {
+        "Category_ID": 134,
+        "Category_Image": "",
+        "Category_Name": "Наборы столовых приборов",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 33
+      },
+      {
+        "Category_ID": 135,
+        "Category_Image": "",
+        "Category_Name": "Ножи",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 35
+      },
+      {
+        "Category_ID": 136,
+        "Category_Image": "",
+        "Category_Name": "Емкости для хранения",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 37
+      },
+      {
+        "Category_ID": 137,
+        "Category_Image": "",
+        "Category_Name": "Аксессуары сервировки3213",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 40
+      },
+      {
+        "Category_ID": 138,
+        "Category_Image": "",
+        "Category_Name": "Блюда3213",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 42
+      },
+      {
+        "Category_ID": 139,
+        "Category_Image": "",
+        "Category_Name": "Супница Террин Легумница",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 43
+      },
+      {
+        "Category_ID": 140,
+        "Category_Image": "",
+        "Category_Name": "Формы для духовки23",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 45
+      },
+      {
+        "Category_ID": 141,
+        "Category_Image": "",
+        "Category_Name": "Тарелки5",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 46
+      },
+      {
+        "Category_ID": 142,
+        "Category_Image": "",
+        "Category_Name": "Стакан Бокал Рюмка",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 48
+      },
+      {
+        "Category_ID": 143,
+        "Category_Image": "",
+        "Category_Name": "Бокалы Стаканы Кружки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 49
+      },
+      {
+        "Category_ID": 144,
+        "Category_Image": "",
+        "Category_Name": "Полки кухонные",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 51
+      },
+      {
+        "Category_ID": 145,
+        "Category_Image": "",
+        "Category_Name": "Вазы3",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 52
+      },
+      {
+        "Category_ID": 146,
+        "Category_Image": "",
+        "Category_Name": "Ведра для льда5",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 53
+      },
+      {
+        "Category_ID": 147,
+        "Category_Image": "",
+        "Category_Name": "Тазы Ведра",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 54
+      },
+      {
+        "Category_ID": 148,
+        "Category_Image": "",
+        "Category_Name": "Шкафы Стеллажи",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 55
+      },
+      {
+        "Category_ID": 149,
+        "Category_Image": "",
+        "Category_Name": "Подставки для газет и бумаг",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 57
+      },
+      {
+        "Category_ID": 150,
+        "Category_Image": "",
+        "Category_Name": "Кувшины Горшки2",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 58
+      },
+      {
+        "Category_ID": 151,
+        "Category_Image": "",
+        "Category_Name": "Кашпо горшки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 59
+      },
+      {
+        "Category_ID": 152,
+        "Category_Image": "",
+        "Category_Name": "Конфетница3",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 60
+      },
+      {
+        "Category_ID": 153,
+        "Category_Image": "",
+        "Category_Name": "Настенный декор",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 61
+      },
+      {
+        "Category_ID": 154,
+        "Category_Image": "",
+        "Category_Name": "Вешалки крючки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 62
+      },
+      {
+        "Category_ID": 155,
+        "Category_Image": "",
+        "Category_Name": "Дровники",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 63
+      },
+      {
+        "Category_ID": 156,
+        "Category_Image": "",
+        "Category_Name": "Столики",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 64
+      },
+      {
+        "Category_ID": 157,
+        "Category_Image": "",
+        "Category_Name": "Зеркала",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 65
+      },
+      {
+        "Category_ID": 227,
+        "Category_Image": "",
+        "Category_Name": "первый магаз",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 162
+      },
+      {
+        "Category_ID": 235,
+        "Category_Image": "",
+        "Category_Name": "Шкатулки таблетницыфваф",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 7
+      },
+      {
+        "Category_ID": 237,
+        "Category_Image": "",
+        "Category_Name": "Блюдачси",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 10
+      },
+      {
+        "Category_ID": 239,
+        "Category_Image": "",
+        "Category_Name": "Аксессуары сервировкияываытп",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 11
+      },
+      {
+        "Category_ID": 250,
+        "Category_Image": "",
+        "Category_Name": "Кувшин Графин123123",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 26
+      },
+      {
+        "Category_ID": 251,
+        "Category_Image": "",
+        "Category_Name": "Детская посуда1123",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 38
+      },
+      {
+        "Category_ID": 252,
+        "Category_Image": "",
+        "Category_Name": "Аксессуары3213",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 28
+      },
+      {
+        "Category_ID": 253,
+        "Category_Image": "",
+        "Category_Name": "Подсвечники231",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 30
+      },
+      {
+        "Category_ID": 254,
+        "Category_Image": "",
+        "Category_Name": "Конфетница31",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 32
+      },
+      {
+        "Category_ID": 255,
+        "Category_Image": "",
+        "Category_Name": "Копилки1231",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 34
+      },
+      {
+        "Category_ID": 257,
+        "Category_Image": "",
+        "Category_Name": "Креманка123213",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 36
+      },
+      {
+        "Category_ID": 258,
+        "Category_Image": "",
+        "Category_Name": "Чашки Кружки2",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 50
+      },
+      {
+        "Category_ID": 264,
+        "Category_Image": "",
+        "Category_Name": "Сладости тест",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 165
+      },
+      {
+        "Category_ID": 99,
+        "Category_Image": "",
+        "Category_Name": "Унисекс",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 107
+      },
+      {
+        "Category_ID": 100,
+        "Category_Image": "",
+        "Category_Name": "Толстовки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 108
+      },
+      {
+        "Category_ID": 101,
+        "Category_Image": "",
+        "Category_Name": "Значок, брелок, попсокет, наклейка",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 109
+      },
+      {
+        "Category_ID": 102,
+        "Category_Image": "",
+        "Category_Name": "Куртки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 110
+      },
+      {
+        "Category_ID": 103,
+        "Category_Image": "",
+        "Category_Name": "Мужская обувь",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 111
+      },
+      {
+        "Category_ID": 104,
+        "Category_Image": "",
+        "Category_Name": "YamalSocket, брелки, кружки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 112
+      },
+      {
+        "Category_ID": 105,
+        "Category_Image": "",
+        "Category_Name": "Баффы и маски",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 113
+      },
+      {
+        "Category_ID": 278,
+        "Category_Image": "",
+        "Category_Name": "хрен там",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 170
+      },
+      {
+        "Category_ID": 106,
+        "Category_Image": "",
+        "Category_Name": "Кепки, панамы, шапки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 114
+      },
+      {
+        "Category_ID": 107,
+        "Category_Image": "",
+        "Category_Name": "Интерьер",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 115
+      },
+      {
+        "Category_ID": 108,
+        "Category_Image": "",
+        "Category_Name": "Конверты, сувенир",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 116
+      },
+      {
+        "Category_ID": 109,
+        "Category_Image": "",
+        "Category_Name": "Дерево, ножи",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 117
+      },
+      {
+        "Category_ID": 110,
+        "Category_Image": "",
+        "Category_Name": "ЯМАЛ 100",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 118
+      },
+      {
+        "Category_ID": 111,
+        "Category_Image": "",
+        "Category_Name": "Изделия из кожи",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 119
+      },
+      {
+        "Category_ID": 112,
+        "Category_Image": "",
+        "Category_Name": "Хоку",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 120
+      },
+      {
+        "Category_ID": 113,
+        "Category_Image": "",
+        "Category_Name": "Баффы, шарфы, перчатки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 121
+      },
+      {
+        "Category_ID": 114,
+        "Category_Image": "",
+        "Category_Name": "Комиксы",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 122
+      },
+      {
+        "Category_ID": 115,
+        "Category_Image": "",
+        "Category_Name": "Мячи, шайбы",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 123
+      },
+      {
+        "Category_ID": 116,
+        "Category_Image": "",
+        "Category_Name": "Серебро",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 124
+      },
+      {
+        "Category_ID": 117,
+        "Category_Image": "",
+        "Category_Name": "Носки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 125
+      },
+      {
+        "Category_ID": 118,
+        "Category_Image": "",
+        "Category_Name": "Лонгсливы",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 126
+      },
+      {
+        "Category_ID": 119,
+        "Category_Image": "",
+        "Category_Name": "Комплекты",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 127
+      },
+      {
+        "Category_ID": 120,
+        "Category_Image": "",
+        "Category_Name": "Кожа",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 128
+      },
+      {
+        "Category_ID": 121,
+        "Category_Image": "",
+        "Category_Name": "Сумки, рюкзаки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 8
+      },
+      {
+        "Category_ID": 122,
+        "Category_Image": "",
+        "Category_Name": "Работа с организациями",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 9
+      },
+      {
+        "Category_ID": 123,
+        "Category_Image": "",
+        "Category_Name": "Товары интернет-магазинов",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 12
+      },
+      {
+        "Category_ID": 124,
+        "Category_Image": "",
+        "Category_Name": "Молочник Соусникяыфвп",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 14
+      },
+      {
+        "Category_ID": 125,
+        "Category_Image": "",
+        "Category_Name": "Набор посуды бренд Sarreguemines Франции",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 16
+      },
+      {
+        "Category_ID": 126,
+        "Category_Image": "",
+        "Category_Name": "Чайник Кофейник Самоварпяыа",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 18
+      },
+      {
+        "Category_ID": 127,
+        "Category_Image": "",
+        "Category_Name": "Шкатулки таблетницываы",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 20
+      },
+      {
+        "Category_ID": 128,
+        "Category_Image": "",
+        "Category_Name": "Чашки Кружки23",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 22
+      },
+      {
+        "Category_ID": 129,
+        "Category_Image": "",
+        "Category_Name": "Подсвечники3112",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 23
+      },
+      {
+        "Category_ID": 130,
+        "Category_Image": "",
+        "Category_Name": "Вилки12312",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 25
+      },
+      {
+        "Category_ID": 131,
+        "Category_Image": "",
+        "Category_Name": "Приборы для сервировки блюд",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 27
+      },
+      {
+        "Category_ID": 132,
+        "Category_Image": "",
+        "Category_Name": "Пепельница",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 29
+      },
+      {
+        "Category_ID": 168,
+        "Category_Image": "",
+        "Category_Name": "Текстиль",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 76
+      },
+      {
+        "Category_ID": 169,
+        "Category_Image": "",
+        "Category_Name": "Мазагран",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 77
+      },
+      {
+        "Category_ID": 170,
+        "Category_Image": "",
+        "Category_Name": "Солонка Перечница Специи",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 78
+      },
+      {
+        "Category_ID": 171,
+        "Category_Image": "",
+        "Category_Name": "Менажницаяыаяцука",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 79
+      },
+      {
+        "Category_ID": 172,
+        "Category_Image": "",
+        "Category_Name": "Салатники Миски",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 80
+      },
+      {
+        "Category_ID": 173,
+        "Category_Image": "",
+        "Category_Name": "Аксессуарыфываи",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 81
+      },
+      {
+        "Category_ID": 174,
+        "Category_Image": "",
+        "Category_Name": "Порт-куто",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 82
+      },
+      {
+        "Category_ID": 175,
+        "Category_Image": "",
+        "Category_Name": "Пасха",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 83
+      },
+      {
+        "Category_ID": 176,
+        "Category_Image": "",
+        "Category_Name": "Пик флер Роузбол",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 84
+      },
+      {
+        "Category_ID": 177,
+        "Category_Image": "",
+        "Category_Name": "Подносы",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 85
+      },
+      {
+        "Category_ID": 178,
+        "Category_Image": "",
+        "Category_Name": "Подставки под горячее / Подогреватели блюд",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 86
+      },
+      {
+        "Category_ID": 179,
+        "Category_Image": "",
+        "Category_Name": "Подставка под бутылку",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 87
+      },
+      {
+        "Category_ID": 180,
+        "Category_Image": "",
+        "Category_Name": "Сахарница",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 88
+      },
+      {
+        "Category_ID": 181,
+        "Category_Image": "",
+        "Category_Name": "Тумбочки",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 89
+      },
+      {
+        "Category_ID": 182,
+        "Category_Image": "",
+        "Category_Name": "Стулья",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 90
+      },
+      {
+        "Category_ID": 183,
+        "Category_Image": "",
+        "Category_Name": "Фруктовница",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 91
+      },
+      {
+        "Category_ID": 184,
+        "Category_Image": "",
+        "Category_Name": "Штопоры",
+        "category_images": null,
+        "parent_category_id": null,
+        "sort_order": 92
+      },
+      {
+        "Category_ID": 241,
+        "Category_Image": "",
+        "Category_Name": "Формы для духовкифа",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 19
+      },
+      {
+        "Category_ID": 256,
+        "Category_Image": "",
+        "Category_Name": "Чайник Кофейник Самовар",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 47
+      },
+      {
+        "Category_ID": 189,
+        "Category_Image": "",
+        "Category_Name": "тест3",
+        "category_images": null,
+        "parent_category_id": 90,
+        "sort_order": 161
+      },
+      {
+        "Category_ID": 209,
+        "Category_Image": "",
+        "Category_Name": "12312113",
+        "category_images": null,
+        "parent_category_id": 90,
+        "sort_order": 163
+      },
+      {
+        "Category_ID": 210,
+        "Category_Image": "",
+        "Category_Name": "АВ",
+        "category_images": null,
+        "parent_category_id": 90,
+        "sort_order": 164
+      },
+      {
+        "Category_ID": 224,
+        "Category_Image": "",
+        "Category_Name": "ремни",
+        "category_images": [],
+        "parent_category_id": 22,
+        "sort_order": 5
+      },
+      {
+        "Category_ID": 242,
+        "Category_Image": "",
+        "Category_Name": "Стакан Бокал Рюмкамяавыа",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 21
+      },
+      {
+        "Category_ID": 259,
+        "Category_Image": "",
+        "Category_Name": "Пашотница Кодлер1321",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 39
+      },
+      {
+        "Category_ID": 260,
+        "Category_Image": "",
+        "Category_Name": "Настольные лампы12321",
+        "category_images": [],
+        "parent_category_id": null,
+        "sort_order": 41
+      },
+      {
+        "Category_ID": 261,
+        "Category_Image": "",
+        "Category_Name": "Ложкифыва",
+        "category_images": [],
+        "parent_category_id": 247,
+        "sort_order": 4
+      },
+      {
+        "Category_ID": 269,
+        "Category_Image": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/c7cc78ea32de7234c2b6e15254719447.jpg",
+        "Category_Name": "тестовый",
+        "category_images": [
+          {
+            "name": "",
+            "type": "",
+            "url": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/c7cc78ea32de7234c2b6e15254719447.jpg"
+          }
+        ],
+        "parent_category_id": null,
+        "sort_order": 166
+      },
+      {
+        "Category_ID": 271,
+        "Category_Image": "",
+        "Category_Name": "фывфывфффф",
+        "category_images": null,
+        "parent_category_id": 189,
+        "sort_order": 167
+      }
+    ],
+    "id_mark_for_sale": 1,
+    "pagination": {
+      "current_page": 1,
+      "has_next": false,
+      "has_prev": false,
+      "per_page": 20,
+      "total_pages": 1,
+      "total_products": 17
+    },
+    "products": [
+      {
+        "id": 799,
+        "images": [
+          {
+            "Image_ID": 4869,
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/f.jpg",
+            "MainImage": false,
+            "Product_ID": 799,
+            "position": "product",
+            "sort_order": 1,
+            "title": "керкеркер"
+          },
+          {
+            "Image_ID": 4868,
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/10.webp",
+            "MainImage": false,
+            "Product_ID": 799,
+            "position": "parameters",
+            "sort_order": 0,
+            "title": "онгонгогн"
+          },
+          {
+            "Image_ID": 4871,
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/f.jpg",
+            "MainImage": false,
+            "Product_ID": 799,
+            "position": "parameters",
+            "sort_order": 3,
+            "title": "дщдщдщщ"
+          },
+          {
+            "Image_ID": 5212,
+            "Image_URL": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/S99976fb59c164d30a4a9c4ab300fb06dl.jpg",
+            "MainImage": false,
+            "Product_ID": 799,
+            "position": "product",
+            "sort_order": 4,
+            "title": "S99976fb59c164d30a4a9c4ab300fb06dl.jpg"
+          },
+          {
+            "Image_ID": 4870,
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/f.jpg",
+            "MainImage": true,
+            "Product_ID": 799,
+            "position": "product",
+            "sort_order": 2,
+            "title": "f.jpg"
+          },
+          {
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/istockphoto-878629952-640_adpp_is.mp4",
+            "title": "Черный"
+          }
+        ],
+        "marks": [],
+        "name": "подарочный пакет M67шТЕСТОВЫЙ",
+        "old_price": null,
+        "price": 190
+      },
+      {
+        "id": 5236,
+        "images": [],
+        "marks": [],
+        "name": "Вам крышка",
+        "old_price": null,
+        "price": 0
+      },
+      {
+        "id": 5043,
+        "images": [
+          {
+            "Image_ID": 5208,
+            "Image_URL": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/test/fadc8f0d806ea7c43322aaab824318c6.jpg",
+            "MainImage": false,
+            "Product_ID": 5043,
+            "position": "product",
+            "sort_order": 0,
+            "title": "56u5jjmmymyumuumy.jpg"
+          },
+          {
+            "Image_ID": 5211,
+            "Image_URL": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/S99976fb59c164d30a4a9c4ab300fb06dl.jpg",
+            "MainImage": true,
+            "Product_ID": 5043,
+            "position": "product",
+            "sort_order": 1,
+            "title": "S99976fb59c164d30a4a9c4ab300fb06dl.jpg"
+          },
+          {
+            "Image_ID": 5214,
+            "Image_URL": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer-test/user_files/twst/f7f0da85bdaf7c9525c2234bdbbf3ae8.jpg",
+            "MainImage": false,
+            "Product_ID": 5043,
+            "position": "product",
+            "sort_order": 2,
+            "title": "f7f0da85bdaf7c9525c2234bdbbf3ae8.jpg"
+          },
+          {
+            "Image_URL": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/photo_2025-06-18_14-15-32.jpg"
+          },
+          {
+            "image_url": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/vam_krishka.jpg",
+            "sort_order": 1
+          },
+          {
+            "image_url": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/test/IMG_2721.jpeg",
+            "sort_order": 2
+          }
+        ],
+        "marks": [
+          {
+            "Mark_Name": "new",
+            "color_code": "#45b649"
+          },
+          {
+            "Mark_Name": "hit",
+            "color_code": "#ff6723"
+          }
+        ],
+        "name": "тестик свежийф",
+        "old_price": null,
+        "price": 3000
+      },
+      {
+        "id": 5041,
+        "images": [
+          {
+            "Image_ID": 5196,
+            "Image_URL": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/100032817969b0.webp",
+            "MainImage": true,
+            "Product_ID": 5041,
+            "position": "product",
+            "sort_order": 0,
+            "title": "1"
+          }
+        ],
+        "marks": [
+          {
+            "Mark_Name": "hit",
+            "color_code": "#ff6723"
+          },
+          {
+            "Mark_Name": "sale",
+            "color_code": "#ffca28"
+          }
+        ],
+        "name": "Товар",
+        "old_price": null,
+        "price": 3000
+      },
+      {
+        "id": 1728,
+        "images": [
+          {
+            "Image_ID": 1926,
+            "Image_URL": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/gadget-f8c6d60da04ace04abd00339eb099d10/product/63736e28af350-ig6jx-ce47zgiwrawyghmfr0iz7ul9kwny5m2zutbihnoemhfmiiewfb4aavpvp0xpwtukk__-m2emi6iugjni0j.jpg",
+            "MainImage": true,
+            "Product_ID": 1728,
+            "position": null,
+            "sort_order": 0,
+            "title": null
+          },
+          {
+            "Image_URL": "https://s3-s1.retailcrm.tech/ru-central1/retailcrm/gadget-f8c6d60da04ace04abd00339eb099d10/product/63736e28af350-ig6jx-ce47zgiwrawyghmfr0iz7ul9kwny5m2zutbihnoemhfmiiewfb4aavpvp0xpwtukk__-m2emi6iugjni0j.jpg"
+          }
+        ],
+        "marks": [],
+        "name": "AirPods 2 наушники",
+        "old_price": null,
+        "price": 3490
+      },
+      {
+        "id": 5,
+        "images": [
+          {
+            "Image_ID": 6,
+            "Image_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/Airpods_pro1.jpg",
+            "MainImage": true,
+            "Product_ID": 5,
+            "position": "product",
+            "sort_order": 0,
+            "title": ""
+          },
+          {
+            "Image_ID": 7,
+            "Image_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/Airpods_pro2.jpg",
+            "MainImage": false,
+            "Product_ID": 5,
+            "position": "product",
+            "sort_order": 1,
+            "title": ""
+          },
+          {
+            "Image_ID": 8,
+            "Image_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/Airpods_pro3.jpg",
+            "MainImage": false,
+            "Product_ID": 5,
+            "position": "product",
+            "sort_order": 2,
+            "title": ""
+          },
+          {
+            "Image_ID": 9,
+            "Image_URL": "https://static-sda.ru/project/Photo/Airpods_Pro_2/Airpods_pro4.jpg",
+            "MainImage": false,
+            "Product_ID": 5,
+            "position": "product",
+            "sort_order": 3,
+            "title": ""
+          },
+          {
+            "Image_ID": 4897,
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/10.webp",
+            "MainImage": false,
+            "Product_ID": 5,
+            "position": "product",
+            "sort_order": 4,
+            "title": ""
+          },
+          {
+            "Image_URL": "https://cdn1.ozone.ru/s3/multimedia-3/6008448519.jpg"
+          },
+          {
+            "image_url": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/S99976fb59c164d30a4a9c4ab300fb06dl.jpg",
+            "sort_order": 1
+          },
+          {
+            "image_url": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/S99976fb59c164d30a4a9c4ab300fb06dl.jpg",
+            "sort_order": 2
+          }
+        ],
+        "marks": [
+          {
+            "Mark_Name": "new",
+            "color_code": "#45b649"
+          },
+          {
+            "Mark_Name": "sale",
+            "color_code": "#ffca28"
+          }
+        ],
+        "name": "Airpods Pro 3",
+        "old_price": 55,
+        "price": 26
+      },
+      {
+        "id": 3,
+        "images": [
+          {
+            "Image_ID": 28,
+            "Image_URL": "https://www.football-mania.ru/f/product/dx9176_107_8.jpg",
+            "MainImage": true,
+            "Product_ID": 3,
+            "position": "parameters",
+            "sort_order": 0,
+            "title": "2я картинка"
+          },
+          {
+            "Image_ID": 4881,
+            "Image_URL": "https://www.football-mania.ru/f/product/dx9176_107_8.jpg",
+            "MainImage": false,
+            "Product_ID": 3,
+            "position": "product",
+            "sort_order": 1,
+            "title": ""
+          },
+          {
+            "Image_ID": 4882,
+            "Image_URL": "https://www.football-mania.ru/f/product/dx9176_107_8.jpg",
+            "MainImage": false,
+            "Product_ID": 3,
+            "position": "product",
+            "sort_order": 2,
+            "title": ""
+          },
+          {
+            "Image_ID": 4883,
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/100032817969b0.webp",
+            "MainImage": true,
+            "Product_ID": 3,
+            "position": "product",
+            "sort_order": 0,
+            "title": "456"
+          },
+          {
+            "Image_ID": 4884,
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/i_VsN8xK7v8.jpg",
+            "MainImage": false,
+            "Product_ID": 3,
+            "position": "parameters",
+            "sort_order": 0,
+            "title": "657567"
+          },
+          {
+            "Image_URL": "https://www.football-mania.ru/f/product/dx9176_107_5.jpg"
+          },
+          {
+            "Image_URL": "https://www.football-mania.ru/f/product/dx9176_107_7.jpg"
+          },
+          {
+            "Image_URL": "https://www.football-mania.ru/f/product/dx9176_107_1.jpg"
+          },
+          {
+            "Image_URL": "https://www.football-mania.ru/f/product/dx9176_107_1.jpg",
+            "title": "White"
+          }
+        ],
+        "marks": [
+          {
+            "Mark_Name": "premium",
+            "color_code": "#292928"
+          }
+        ],
+        "name": "Кроссовки NIKE Gamma Force",
+        "old_price": null,
+        "price": 4
+      },
+      {
+        "id": 797,
+        "images": [
+          {
+            "Image_ID": 4873,
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/100032817969b0.webp",
+            "MainImage": true,
+            "Product_ID": 797,
+            "position": "product",
+            "sort_order": 0,
+            "title": "фото"
+          },
+          {
+            "Image_ID": 4885,
+            "Image_URL": "https://студия58.бел/images/products/img_8569-min.1200x1000w.jpg",
+            "MainImage": false,
+            "Product_ID": 797,
+            "position": "product",
+            "sort_order": 1,
+            "title": "фото2"
+          },
+          {
+            "Image_URL": "https://lh6.googleusercontent.com/proxy/Y9sD2HVG6E81Dr4nAn6uF17Zg3d8iDGsge5oVzsdu7hBEL_7aiGjfZfTe4kGWLvK1U_znCYJmqrhM6s7M0au2xNTgMmSpxZhYhw1oVPlPA",
+            "title": "красный"
+          }
+        ],
+        "marks": [
+          {
+            "Mark_Name": "hit",
+            "color_code": "#ff6723"
+          },
+          {
+            "Mark_Name": "new",
+            "color_code": "#45b649"
+          }
+        ],
+        "name": "Рюкзак",
+        "old_price": 685,
+        "price": 490
+      },
+      {
+        "id": 5095,
+        "images": [
+          {
+            "Image_ID": 4972,
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/test/AQMCD920Pqn2T2Sb34qajeegmDQWBxy8yEFzJ6ejqEtZXmEJUqJFrJsASM3fF7Jm-92VkxeTBIX_Zpn47bI_6chj_eTL6spEIqELkJo123asdasdasddazsd.jpg",
+            "MainImage": true,
+            "Product_ID": 5095,
+            "position": "product",
+            "sort_order": 0,
+            "title": "AQMCD920Pqn2T2Sb34qajeegmDQWBxy8yEFzJ6ejqEtZXmEJUqJFrJsASM3fF7Jm-92VkxeTBIX_Zpn47bI_6chj_eTL6spEIqELkJo123asdasdasddazsd.jpg"
+          }
+        ],
+        "marks": [],
+        "name": "ноунейм проверка",
+        "old_price": null,
+        "price": 1000
+      },
+      {
+        "id": 5097,
+        "images": [],
+        "marks": [],
+        "name": "последний товар",
+        "old_price": null,
+        "price": 5000
+      },
+      {
+        "id": 5208,
+        "images": [
+          {
+            "Image_ID": 5128,
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/test/da910b147ba0df0033d916051762afe0.jpg",
+            "MainImage": true,
+            "Product_ID": 5208,
+            "position": "product",
+            "sort_order": 0,
+            "title": "da910b147ba0df0033d916051762afe0.jpg"
+          },
+          {
+            "Image_ID": 5129,
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/SUGARED-DONUT.png",
+            "MainImage": false,
+            "Product_ID": 5208,
+            "position": "parameters",
+            "sort_order": 1,
+            "title": "бублик"
+          }
+        ],
+        "marks": [],
+        "name": "нвоый крутой классный не ломающийся",
+        "old_price": null,
+        "price": 1000
+      },
+      {
+        "id": 5209,
+        "images": [
+          {
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/test/1r0bfl0x-590x430.webp"
+          },
+          {
+            "image_url": "https://noxer-test.ru/webapp/user_files/test/asdasdas.jpeg",
+            "sort_order": 1
+          },
+          {
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/test/tumbochka-askona-klassik-2-6.jpg"
+          },
+          {
+            "image_url": "https://noxer-test.ru/webapp/user_files/test/31f8ac8e5a755617e1007df80aeaba88.webp",
+            "sort_order": 1
+          },
+          {
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/test/1r0bfl0x-590x430.webp",
+            "title": "белый"
+          },
+          {
+            "Image_URL": "https://noxer-test.ru/webapp/user_files/test/9kicxo84kc7qnv3o085k466muz58g1pf.webp",
+            "title": "коричневый"
+          }
+        ],
+        "marks": [
+          {
+            "Mark_Name": "hit",
+            "color_code": "#ff6723"
+          },
+          {
+            "Mark_Name": "new",
+            "color_code": "#45b649"
+          }
+        ],
+        "name": "реальный товар Тумбочка",
+        "old_price": null,
+        "price": 10000
+      },
+      {
+        "id": 5212,
+        "images": [],
+        "marks": [],
+        "name": "первый первый",
+        "old_price": null,
+        "price": 1000
+      },
+      {
+        "id": 5220,
+        "images": [],
+        "marks": [],
+        "name": "проверка тэгов",
+        "old_price": null,
+        "price": 800
+      },
+      {
+        "id": 5222,
+        "images": [],
+        "marks": [],
+        "name": "первый первый",
+        "old_price": null,
+        "price": 1000
+      },
+      {
+        "id": 5227,
+        "images": [
+          {
+            "Image_ID": 5201,
+            "Image_URL": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/55.png",
+            "MainImage": true,
+            "Product_ID": 5227,
+            "position": "product",
+            "sort_order": 0,
+            "title": "22.jpg"
+          }
+        ],
+        "marks": [
+          {
+            "Mark_Name": "premium",
+            "color_code": "#292928"
+          },
+          {
+            "Mark_Name": "discount",
+            "color_code": "#7561e8"
+          }
+        ],
+        "name": "тестовый товар удалить",
+        "old_price": null,
+        "price": 6000
+      },
+      {
+        "id": 5228,
+        "images": [
+          {
+            "Image_ID": 5202,
+            "Image_URL": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/test/1r0bfl0x-590x430.webp",
+            "MainImage": true,
+            "Product_ID": 5228,
+            "position": "product",
+            "sort_order": 0,
+            "title": "1r0bfl0x-590x430.webp"
+          }
+        ],
+        "marks": [
+          {
+            "Mark_Name": "premium",
+            "color_code": "#292928"
+          },
+          {
+            "Mark_Name": "discount",
+            "color_code": "#7561e8"
+          }
+        ],
+        "name": "сломайся пожалуйста",
+        "old_price": null,
+        "price": 2000
+      }
+    ],
+    "special_project_parameters": {
+      "PAYMENT_SYSTEM_INSERT_TEXT_description": "Спасибо за заказ в нашем царстве",
+      "PAYMENT_SYSTEM_INSERT_TEXT_extra_field_1": "Не потеряй гордость, заплати нашему царю за товаррZX",
+      "PAYMENT_SYSTEM_INSERT_TEXT_value": "1",
+      "PAYMENT_SYSTEM_value": "tochka_bank_system",
+      "SERVER_IP_ADDR_description": "http://localhost:7777",
+      "SERVER_IP_ADDR_value": "https://noxer-test.ru",
+      "cart_allow_post_payment_value": "yes",
+      "cart_delivery_price_offline_value": "100",
+      "cart_delivery_price_value": "5",
+      "footer_link_description": "@noxerai_bot",
+      "footer_link_value": "https://noxer-ai.ru/bot/api/refs/json?ref=noxer",
+      "payment_return_url_value": "https://bot-rybavseti.ru/static/?afterBuy=true",
+      "product_page_accordeon_item_header_12_description": "Описание",
+      "product_page_accordeon_item_header_12_value": "Бренд2",
+      "product_page_accordeon_item_header_34_description": "Доп. информацияд",
+      "product_page_accordeon_item_header_34_value": "Характеристики новыед",
+      "project_footer_special_text_extra_field_1": "(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();\n   for (var j = 0; j \u003C document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}\n   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(12345678, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true\n   });",
+      "project_footer_special_text_value": "yes",
+      "project_logo_description": "logo description",
+      "project_logo_extra_field_1": "logo extra parameter",
+      "project_logo_value": "https://noxer-test.ru/webapp/user_files/f.jpg",
+      "project_name_extra_field_1": "Разработано на платформе в noxerai_bot",
+      "project_name_value": "noxer-test",
+      "telegram_bot_username_description": "Телеграм бот",
+      "telegram_bot_username_extra_field_1": ":)",
+      "telegram_bot_username_value": "@noxer_test_bot",
+      "telegram_header_link_description": "Ссылка на телеграм канал",
+      "telegram_header_link_value": "https://t.me/noxer_test_bot",
+      "telegram_manager_contact_extra_field_1": "https://t.me/ilya_ai1",
+      "telegram_manager_contact_value": "@archimage_wiz",
+      "webapp_link_description": "Ссылка на приложение в телеграм!",
+      "webapp_link_value": "https://noxer-test.ru"
+    },
+    "special_project_parameters_actions": [
+      {
+        "action_type": "action",
+        "description": "крут",
+        "extra_field_1": "",
+        "extra_field_2": "",
+        "id": 22,
+        "image_url": "https://noxer-test.ru/webapp/user_files/test/da910b147ba0df0033d916051762afe0.jpg",
+        "sort_order": 3,
+        "url": null
+      },
+      {
+        "action_type": "action",
+        "description": "Распродажа",
+        "extra_field_1": "",
+        "extra_field_2": "",
+        "id": 18,
+        "image_url": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/banner1_compressed.jpg",
+        "sort_order": 1,
+        "url": null
+      },
+      {
+        "action_type": "action",
+        "description": "Распродаж",
+        "extra_field_1": "",
+        "extra_field_2": "",
+        "id": 19,
+        "image_url": "https://s3.twcstorage.ru/19dc3eea-8d73649f-6043-4e9c-aefd-53f22d062e74/noxer/user_files/banner2.jpg",
+        "sort_order": 2,
+        "url": null
+      }
+    ],
+    "special_project_parameters_badges": [
+      {
+        "description": "Доставка и оплата",
+        "extra_json": null,
+        "id": 2,
+        "image_url": "https://static-sda.ru/front_end/icons/articleIcons/icon-4.svg",
+        "meaning_tag": null,
+        "sort_order": 5,
+        "url": "https://teletype.in/@brandbot/vW8XzSKnYug"
+      },
+      {
+        "description": "Гарантии",
+        "extra_json": null,
+        "id": 3,
+        "image_url": "https://static-sda.ru/front_end/icons/articleIcons/icon-17.svg",
+        "meaning_tag": null,
+        "sort_order": 3,
+        "url": "https://teletype.in/@brandbot/1FoWO207kIH"
+      },
+      {
+        "description": "Режим работы",
+        "extra_json": null,
+        "id": 5,
+        "image_url": "https://static-sda.ru/front_end/icons/articleIcons/icon-19.svg",
+        "meaning_tag": null,
+        "sort_order": 1,
+        "url": "https://teletype.in/@brandbot/lX_UiFM5bxS"
+      },
+      {
+        "description": "Акции Магазина",
+        "extra_json": {
+          "isActive": true
+        },
+        "id": 6,
+        "image_url": "https://static-sda.ru/front_end/icons/percentage-circle.svg",
+        "meaning_tag": "actions",
+        "sort_order": 8,
+        "url": ""
+      },
+      {
+        "description": "Написать в поддержку",
+        "extra_json": {
+          "isActive": true
+        },
+        "id": 7,
+        "image_url": "https://static-sda.ru/front_end/icons/support.svg",
+        "meaning_tag": "support",
+        "sort_order": 7,
+        "url": ""
+      },
+      {
+        "description": "Установиить приложение на домашний экран",
+        "extra_json": {
+          "isActive": true
+        },
+        "id": 8,
+        "image_url": "https://static-sda.ru/front_end/icons/move_app_icon.svg",
+        "meaning_tag": "set_app",
+        "sort_order": 6,
+        "url": ""
+      },
+      {
+        "description": "Как мы работаем?",
+        "extra_json": null,
+        "id": 105,
+        "image_url": "https://static-sda.ru/front_end/icons/articleIcons/icon-16.svg",
+        "meaning_tag": null,
+        "sort_order": 4,
+        "url": "https://teletype.in/@brandbot/lX_UiFM5bxS"
+      },
+      {
+        "description": "12312312",
+        "extra_json": null,
+        "id": 110,
+        "image_url": "https://static-sda.ru/front_end/icons/articleIcons/icon-1.svg",
+        "meaning_tag": null,
+        "sort_order": 2,
+        "url": "https://teletype.in/@brandbot/lX_UiFM5bxS"
+      },
+      {
+        "description": "123",
+        "extra_json": null,
+        "id": 112,
+        "image_url": "https://static-sda.ru/front_end/icons/articleIcons/icon-17.svg",
+        "meaning_tag": null,
+        "sort_order": 0,
+        "url": "https://teletype.in/@brandbot/lX_UiFM5bxS"
+      }
+    ],
+    "special_project_parameters_json": {
+      "delivery_method": {
+        "methods_list": [
+          {
+            "addr_points": [
+              {
+                "address": "Санкт-Петербург, Уральская 10к2, строймаркет Василеостровский, 1 этаж, секция 87Б",
+                "name": "Склад 1"
+              },
+              {
+                "address": "адрес1",
+                "name": "Склад 2"
+              }
+            ],
+            "description": "Самовывоз осуществляется по адресу Санкт-Петербург, Уральская 10к2, строймаркет Василеостровский, 1 этаж, секция 87Б",
+            "name": "Самовывоз",
+            "type": "self_delivery"
+          },
+          {
+            "description": "описание доставки сдек будет доставлять сдек вам домой или не будет",
+            "name": "СДЭК ручной",
+            "type": "cdek"
+          },
+          {
+            "description": "11111111111111111111111111111111111111111111111111",
+            "name": "ПочтаРоссии ручной",
+            "type": "pochta"
+          },
+          {
+            "description": "кук",
+            "name": "Курьер",
+            "type": "courier"
+          },
+          {
+            "description": "нетнет",
+            "name": "5post ручной",
+            "type": "post5"
+          }
+        ]
+      },
+      "disabled_gpt_models": {
+        "disabled_models": []
+      },
+      "fast_search_strings": {
+        "parameters_list": [
+          "Полуфабрикаты",
+          "Рыба",
+          "Кроссовки",
+          "я пришел вам крышка",
+          "где кнопка ENTER?"
+        ]
+      },
+      "global_reviews": {
+        "rating": 4.8,
+        "title": "Показать все отзывы?!",
+        "total_ratings_count": 44,
+        "url": "https://noxer-test.ru/webapp/#/catalog"
+      },
+      "is_side_menu": true,
+      "order_required_fields": {
+        "required_fields": [
+          "phone",
+          "fio",
+          "city",
+          "email"
+        ]
+      },
+      "payment_buttons": {
+        "afterpay_button_link": "https://t.me/callandr",
+        "afterpay_button_text": "Связь с менеджером для оплаты"
+      },
+      "show_subcategories": {
+        "show": true
+      },
+      "softpay_button": {
+        "afterpay_button_link": "https://t.me/callandr",
+        "afterpay_button_text": "TEST BUTTON22"
+      },
+      "sum_cart_for_free_delivery": {
+        "min_sum": "20000"
+      }
+    },
+    "status": "ok"
+  }

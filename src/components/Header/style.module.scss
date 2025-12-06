@@ -1,0 +1,109 @@
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    // margin-bottom: clamp(12px, 3vw, 20px);
+    padding: 8px 0;
+    // padding: clamp(8px, 2vw, 12px) clamp(0, 4vw, 24px);
+    position: sticky;
+    top: 10px; 
+    z-index: 1000;
+    font-weight: 500;
+}
+
+.icon {
+    width: 10px;
+    height: 10px;
+    flex-shrink: 0;
+    margin: 5px;
+    object-fit: contain;
+}
+
+.exit, .link, .settings {
+    border-radius: 20px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 5px;
+    min-height: 36px;
+    min-width: 36px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    color: var(--text-color);
+}
+
+.exit, .settings {
+    background-color: gray;
+}
+
+.exit {
+    padding-right: 10px;
+    gap: 2px;
+}
+
+.settings {
+    position: relative;
+}
+
+.btnControlContainer {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+    width: 140px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: var(--block-color);
+}
+
+.btnControl {
+    width: 100%;
+    padding: 4px 7px;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    background-color: gray;
+}
+
+.btnControlImg {
+    width: 13px;
+    height: 13px;
+    object-fit: cover;
+}
+
+.btnControlImgBack {
+    width: 13px;
+    height: 13px;
+    object-fit: contain;
+    transform: rotate(90deg);
+}
+
+.btnControlText {
+    font-size: 13px;
+    color: var(--text-color);
+}
+
+.link {
+    width: 150px;
+    margin: 0 auto;
+}
+
+@media (max-width: 425px) {
+    .header {
+        margin: 0;
+    }
+    .exit, .link, .settings {
+        font-size: 11px;
+        gap: 3px;
+    }
+    .icon {
+        width: 9px;
+        height: 9px;
+    }
+}

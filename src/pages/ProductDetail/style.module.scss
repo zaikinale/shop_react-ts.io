@@ -1,0 +1,276 @@
+
+.productDetail {
+    margin: 20px auto;
+    width: 350px;
+    padding: 5px;
+    position: relative;
+    background-color: var(--block-color);
+    border-radius: 20px;
+    transition: background-color 0.6s ease, color 0.6s ease;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.productDetail > * {
+    color: var(--text-color);
+}
+
+.empty {
+    font-weight: bold;
+    font-size: 40px;
+    color: var(--title-color);
+}
+
+.containerDesc {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    justify-content: space-between;
+}
+
+.headerCard {
+    top: 10px;
+    left: 10px;
+    width: calc(100% - 20px);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: absolute;
+}
+
+.tags {
+    position: relative;
+    bottom: 50px;
+    display: flex;
+    gap: 5px;
+}
+
+.saveButton {
+    margin: 4px;
+    width: 25px;
+    height: 25px;
+    padding: 0;
+    border: none;
+    background: none;
+}
+
+.save {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.imgProduct {
+    width: 340px;
+    height: 340px;
+    border-radius: 20px;
+    object-fit: cover;
+    object-position: center;
+    background-color: var(--bg);
+    text-align: center;
+    
+}
+
+.imgProductPlaceholder {
+    min-width: 340px;
+    min-height: 340px;
+    border-radius: 20px;
+    display: block;
+    background-color: var(--bg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.priceContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+    padding: 0 10px;
+}
+
+.finalPrice {
+    font-weight: bold;
+    font-size: 20px;
+    color: var(--title-color);
+}
+
+.salaryContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+}
+
+.originalPrice {
+    color: gray;
+    text-decoration: line-through;
+}
+
+.salary {
+    font-weight: 700;
+    font-size: 14px;
+    color: #FF6723;
+}
+
+.descriptionContainer {
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 5px;
+    gap: 5px;
+}
+
+.description {
+    padding: 0 10px;
+    width: 100%;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3; 
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: start;
+    line-height: 1.4;
+    max-height: 2.8em; 
+    color: var(--text-color);
+}
+
+.btnChoose {
+    width: 100%;
+    max-width: 100%;
+    border-radius: 20px;
+    background-color: var(--bg);
+    color: var(--text-color);
+    padding: 8px;
+    font-size: clamp(14px, 3.5vw, 16px);
+}
+
+.btnChooseActive {
+    width: 100%;
+    border-radius: 20px;
+    background-color: rgb(255, 217, 0);
+    color: var(--title-color);
+    padding: 8px;
+    font-size: clamp(14px, 3.5vw, 16px);
+}
+
+
+.statusCardNew {
+    width: fit-content;
+    font-family: Mulish, serif;
+    padding:3px 10px;
+    border-radius: 15px;
+    color: white;
+    background-color: #45B649;
+}
+
+.statusCardHit{
+    width: fit-content;
+    font-family: Mulish, serif;
+    padding:3px 10px;
+    border-radius: 15px;
+    color: white;
+    background-color: #FF6723;
+}
+
+.statusCardSalary {
+    width: fit-content;
+    font-family: Mulish, serif;
+    padding:3px 10px;
+    border-radius: 15px;
+    color: white;
+    background-color: #FFCA28;
+}
+
+.statusCardPremium {
+    width: fit-content;
+    font-family: Mulish, serif;
+    border-radius: 15px;
+    padding:3px 10px;
+    color: white;
+    background-color: #292928;
+}
+/* 
+@media (max-width: 600px) {
+    .cardProduct {
+        width: 173px;
+        height: 272px;
+        padding: 2px;
+        border-radius: 18px;
+        gap: 1px;
+    }
+
+    .headerCard {
+        top: 5px;
+        left: 5px;
+        width: 160px;
+    }
+
+    .headerCard > * {
+        font-size: 11px;
+    }
+
+
+    .imgProduct {
+        min-width: 169px;
+        min-height: 169px;
+        border-radius: 15px;
+    }
+
+    .imgProductPlaceholder {
+        min-width: 169px;
+        min-height: 169px;
+        border-radius: 15px;
+    }
+
+    .saveButton {
+        width: 17px;
+        height: 17px;
+    }
+
+    .finalPrice {
+        font-size: 16px;
+    }
+
+    .salaryContainer {
+        font-size: 10px;
+    }
+
+    .salary {
+        font-size: 10px;
+    }
+
+    .descriptionContainer {
+        gap: 1px;
+    }
+
+    .description {
+        font-size: 13px;
+    }
+
+    .statusCardNew {
+        padding:4px 8px;
+        border-radius: 10px;
+    }
+
+    .statusCardHit{
+        padding:4px 8px;
+        border-radius: 10px;
+    }
+
+    .statusCardSalary {
+        padding:4px 8px;
+        border-radius: 10px;
+    }
+
+    .statusCardPremium {
+        padding:4px 8px;
+        border-radius: 10px;
+    }
+}  */

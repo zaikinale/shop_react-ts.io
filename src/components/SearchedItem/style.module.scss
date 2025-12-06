@@ -1,0 +1,27 @@
+
+.searchItem {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
+
+.searchItem:hover {
+    transform: scale(1.1);
+}
+
+.searchImg {
+    width: 15px;
+    height: 15px;
+    object-fit: cover;
+}
+
+.searchText {
+    text-align: left;
+    font-size: 11px;
+    width: 100%;
+    color: var(--text-color);
+    padding-bottom: 5px;
+    border-bottom: 1px solid var(--text-color);
+}

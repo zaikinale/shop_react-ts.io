@@ -1,0 +1,83 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.container__title {
+    font-size: 18px;
+    color: var(--text-color);
+}
+
+.data {
+    width: 100%;
+    max-width: 360px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: var(--block-color);
+    color: var(--block-color);
+}
+
+.data__items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    width: 100%;
+}
+
+.data__item {   
+    width: 100%;
+    padding: 4px;
+    background-color: var(--bg);
+    color: var(--text-color);
+    border-radius: 10px;
+    font-size: 13px;
+}
+
+.resetData {
+    width: 100%;
+    padding: 4px;
+    background-color: var(--bg);
+    color: var(--text-color);
+    border-radius: 10px;
+    font-weight: 400;
+    font-size: 13px;
+}
+
+.subtitle {
+    width: 100%;
+    margin-left: 10px;
+    font-size: 16px;
+    color: var(--title-color);
+}
+
+.dataContainer {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.imgProfile {
+    width: 80px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: var(--bg);
+    object-fit: contain;
+}
+
+.containerDesc {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

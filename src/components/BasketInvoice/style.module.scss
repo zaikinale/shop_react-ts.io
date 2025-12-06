@@ -1,0 +1,60 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: var(--block-color);
+    padding: 20px;
+    width: 350px;
+    border-radius: 15px;
+}
+
+.container >* {
+    color: var(--title-color);
+}
+
+.totalCountAndOldPrice {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.discounts {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.totalDiscount {
+    color: red;
+
+}
+
+.bottomLine {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.totalText {
+    font-size: 20px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.total {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.btnSubmit {
+    margin: 0 auto;
+    width: 70%;
+    border-radius: 20px;
+    background-color: rgb(255, 217, 0);
+    color:white;
+    padding: 8px;
+    font-size: clamp(14px, 3.5vw, 16px);
+}

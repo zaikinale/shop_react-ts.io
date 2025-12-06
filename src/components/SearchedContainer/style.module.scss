@@ -1,0 +1,18 @@
+.sectionContainer {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.searchTitle {
+    text-align: left;
+    color: var(--text-color);
+    margin-bottom: 10px;
+}
+
+.searchContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

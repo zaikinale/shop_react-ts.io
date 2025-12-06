@@ -1,0 +1,201 @@
+.searchWrapper {
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    border-radius: 20px;
+    /* padding: 5px; */
+    background-color: var(--block-color);
+
+}
+
+.search {
+    box-sizing: border-box;
+    border: none;
+    text-decoration: none;
+    align-items: center;
+    width: 100%;
+    max-width: 100%;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: var(--block-color);
+    color: gray;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.searchActive {
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+.search img {
+    margin-left: 5px;
+    flex-shrink: 0;
+    width: 18px;
+    height: 18px;
+}
+
+.searchInput {
+    border: none;
+    text-decoration: none;
+    align-items: center;
+    width: 100%;
+    font-size: 16px;
+    background-color: var(--block-color);
+    color: var(--text-color);
+    padding: 10px 10px;
+}
+
+.searchInput::placeholder {
+    color: var(--text-color);
+}
+
+.goToProduct {
+    background-color: #292928;
+    color: white;
+    font-size: 11px;
+    border-radius: 20px;
+    padding: 10px 14px;
+}
+
+.miniContainerProduct {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 10px;
+    display: flex;
+    gap: 30px;
+    padding: 15px;
+    background-color:  var(--block-color);
+    border-radius: 10px;
+}
+
+.imgProduct {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    background-color: var(--bg);
+    border-radius: 10px;
+}
+
+.imgProductPlaceholder {
+    width: 50px;
+    height: 50px;
+    background-color: var(--bg);
+    border-radius: 10px;
+}
+
+.miniDescProductContainer {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.miniDescProduct {
+    font-size: 13px;
+    color: var(--text-color);
+    text-align: start;
+
+}
+
+.miniPriceContainer {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.priceContainer {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.salaryContainer {
+    display: flex; 
+    gap: 5px;
+    align-items: center;
+}
+
+.finalPrice {
+    text-align: left;
+    font-size: 16px;
+    color: var(--title-color);
+    font-weight: 600;
+} 
+
+.originalPrice {
+    font-size: 10px;
+    color: #BFBFBF;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+
+.salary {
+    font-size: 10px;
+    color: #F24131;
+    font-weight: 700;
+} 
+
+.miniDescProductContainerText {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+
+.saveButton {
+    /* position: absolute;
+    right: 0; */
+    margin: 4px;
+    width: 20px;
+    max-height: 20px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.save {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+.btnChoose,
+.btnChooseActive {
+    /* position: absolute;
+    right: 0; */
+    margin-left: 20px;
+    width: 100%;
+    max-width: 100px;
+    border-radius: 16px;
+    padding: 4px;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    cursor: pointer;
+    border: none;
+}
+
+.btnChoose {
+    background-color: var(--bg);
+    color: var(--text-color);
+}
+
+.btnChooseActive {
+    background-color: rgb(255, 217, 0);
+    color: white;
+}

@@ -1,0 +1,293 @@
+.cardProduct {
+    width: 100%;
+    max-width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 10px;
+    position: relative;
+    border-radius: 25px;
+    background-color: var(--block-color);
+    padding: 5px;
+    cursor: pointer;
+    height: 370px;
+    transition: background-color 0.6s ease-in-out, color 0.6s ease-in-out, opacity 0.3s ease-in-out;
+  }
+  
+  .pendingOpacity {
+    opacity: 0.5;
+  }
+  
+  .linkContainer {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    gap: 15px;
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .headerCard {
+    top: 10px;
+    left: 10px;
+    width: calc(100% - 20px);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: absolute;
+    z-index: 2;
+  }
+  
+  .tags {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  .saveButton,
+  .controlBtns button {
+    margin: 4px;
+    width: 25px;
+    max-height: 25px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  
+  .save,
+  .deleteBrn {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  
+  .imgProduct {
+    width: 100%;
+    max-width: 240px;
+    max-height: 240px;
+    min-width: 240px;
+    min-height: 240px;
+    border-radius: 20px;
+    object-fit: cover;
+    object-position: center;
+    background-color: var(--bg);
+    text-align: center;
+  }
+  
+  .imgProductPlaceholder {
+    min-width: 240px;
+    min-height: 240px;
+    border-radius: 20px;
+    display: block;
+    background-color: var(--bg);
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .priceContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .finalPrice {
+    font-weight: bold;
+    font-size: 20px;
+    color: var(--title-color);
+  }
+  
+  .salaryContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+  }
+  
+  .originalPrice {
+    color: gray;
+    text-decoration: line-through;
+  }
+  
+  .salary {
+    font-weight: 700;
+    font-size: 14px;
+    color: #FF6723;
+  }
+  
+  .containerDescControl {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .descriptionContainer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5px;
+    gap: 5px;
+    flex: 1;
+  }
+  
+  .description {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: start;
+    line-height: 1.4;
+    max-height: 2.8em;
+    color: var(--text-color);
+  }
+  
+  .btnChoose,
+  .btnChooseActive {
+    width: 100%;
+    max-width: 240px;
+    border-radius: 20px;
+    padding: 8px;
+    font-size: clamp(14px, 3.5vw, 16px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .btnChoose {
+    background-color: var(--bg);
+    color: var(--text-color);
+  }
+  
+  .btnChooseActive {
+    background-color: rgb(255, 217, 0);
+    color: var(--title-color);
+  }
+  
+  .addOrDeleteBtn {
+    padding: 5px;
+    margin: 0 10px;
+    background: none;
+    color: var(--text-color);
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 30px;
+  }
+  
+  .counterProduct {
+    font-weight: bold;
+    min-width: 20px;
+    text-align: center;
+  }
+  
+  .controlBtns {
+    display: flex;
+    gap: 5px;
+    align-items: start;
+  }
+  
+  .statusCardNew,
+  .statusCardHit,
+  .statusCardSalary,
+  .statusCardPremium {
+    width: fit-content;
+    font-family: Mulish, serif;
+    padding: 3px 10px;
+    border-radius: 15px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  .statusCardNew {
+    background-color: #45B649;
+  }
+  
+  .statusCardHit {
+    background-color: #FF6723;
+  }
+  
+  .statusCardSalary {
+    background-color: #FFCA28;
+    color: #292928;
+  }
+  
+  .statusCardPremium {
+    background-color: #292928;
+  }
+
+  @media (max-width: 600px) {
+    .cardProduct {
+      width: 173px;
+      height: 272px;
+      padding: 2px;
+      border-radius: 18px;
+      gap: 1px;
+    }
+  
+    .headerCard {
+      top: 5px;
+      left: 5px;
+      width: 160px;
+    }
+  
+    .imgProduct,
+    .imgProductPlaceholder {
+      min-width: 169px;
+      min-height: 169px;
+      max-width: 169px;
+      max-height: 169px;
+      border-radius: 15px;
+    }
+  
+    .saveButton,
+    .controlBtns button {
+      width: 17px;
+      height: 17px;
+    }
+  
+    .finalPrice {
+      font-size: 16px;
+    }
+  
+    .salary,
+    .salaryContainer {
+      font-size: 10px;
+    }
+  
+    .description {
+      font-size: 13px;
+      -webkit-line-clamp: 1;
+    }
+  
+    .statusCardNew,
+    .statusCardHit,
+    .statusCardSalary,
+    .statusCardPremium {
+      padding: 4px 8px;
+      border-radius: 10px;
+      font-size: 10px;
+    }
+  
+    .btnChoose,
+    .btnChooseActive {
+      padding: 6px;
+      font-size: 14px;
+    }
+  
+    .addOrDeleteBtn {
+      font-size: 16px;
+      margin: 0 6px;
+    }
+  }
