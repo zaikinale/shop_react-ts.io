@@ -8,7 +8,7 @@
 }
 
 .sliderWrapper {
-    width: 350px;
+    width: 900px;
     overflow: hidden;
     border-radius: 10px;
     position: relative;
@@ -24,8 +24,8 @@
 .clickPlace {
     z-index: 1000;
     background: none;
-    height: 140px;
-    width: 100px;
+    height: 340px;
+    width: 300px;
 }
 
 .slides {
@@ -40,8 +40,8 @@
 }
 
 .sliderImg {
-    width: 350px;
-    height: 140px;
+    width: 900px;
+    height: 340px;
     object-fit: cover;
     display: block;
 }
@@ -67,4 +67,40 @@
 .controlBtnActive {
     opacity: 1;
     background-color: white;
+}
+
+
+@media (max-width: 600px) {
+    .sliderWrapper {
+        width: 550px;
+    }
+
+    .sliderImg {
+        width: 550px;
+        height: 240px;
+    }
+
+    .clickPlace {
+        height: 240px;
+        width: 200px;
+    }
+}
+
+@media (max-width: 400px) {
+
+    .sliderWrapper {
+        width: 350px;
+    }
+
+    .sliderImg {
+        width: 350px;
+        height: 140px;
+    }
+
+    .clickPlace {
+        height: 140px;
+        width: 100px;
+    }
+
+
 }

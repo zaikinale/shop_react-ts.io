@@ -1,20 +1,6 @@
 {
     "categories": [
       {
-        "Category_ID": 276,
-        "Category_Image": "",
-        "Category_Name": "новая тестовая а",
-        "category_images": [
-          {
-            "name": "",
-            "type": "",
-            "url": "https://s3.twcstorage./noxer/user_files/c7cc78ea32de7234c2b6e15254719447.jpg"
-          }
-        ],
-        "parent_category_id": null,
-        "sort_order": 169
-      },
-      {
         "Category_ID": 1,
         "Category_Image": "https://static-sda.ru/brandbot/menu/card1.png",
         "Category_Name": "Техника",
@@ -56,7 +42,7 @@
       },
       {
         "Category_ID": 19,
-        "Category_Image": "",
+        "Category_Image": "https://i.ibb.co/qLhFKfGv/watch-10-46-rose-gold-light-blush-band-1-1000x1000.jpg",
         "Category_Name": "Часы",
         "category_images": null,
         "parent_category_id": null,
@@ -64,7 +50,7 @@
       },
       {
         "Category_ID": 20,
-        "Category_Image": "",
+        "Category_Image": "https://i.ibb.co/k2mjrz8B/images.jpg",
         "Category_Name": "Сумки",
         "category_images": null,
         "parent_category_id": null,
@@ -72,7 +58,7 @@
       },
       {
         "Category_ID": 21,
-        "Category_Image": "",
+        "Category_Image": "https://i.ibb.co/wZqF6gWT/images.png",
         "Category_Name": "Очки",
         "category_images": null,
         "parent_category_id": null,
@@ -80,7 +66,7 @@
       },
       {
         "Category_ID": 22,
-        "Category_Image": "",
+        "Category_Image": "https://i.ibb.co/pvYR3mVT/images.jpg",
         "Category_Name": "Одежда",
         "category_images": null,
         "parent_category_id": null,
@@ -89,7 +75,7 @@
       {
         "Category_ID": 23,
         "Category_Image": "",
-        "Category_Name": "обувь",
+        "Category_Name": "Обувь",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 96
@@ -97,7 +83,7 @@
       {
         "Category_ID": 24,
         "Category_Image": "",
-        "Category_Name": "кошельки",
+        "Category_Name": "Кошельки",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 97
@@ -105,7 +91,7 @@
       {
         "Category_ID": 25,
         "Category_Image": "",
-        "Category_Name": "парфюм",
+        "Category_Name": "Парфюм",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 98
@@ -135,14 +121,6 @@
         "sort_order": 154
       },
       {
-        "Category_ID": 54,
-        "Category_Image": "https://snipp.ru/uploads/images/donut.png",
-        "Category_Name": "ТЕстовая категорий",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 130
-      },
-      {
         "Category_ID": 55,
         "Category_Image": "",
         "Category_Name": "Упаковка расходники",
@@ -151,17 +129,9 @@
         "sort_order": 131
       },
       {
-        "Category_ID": 56,
-        "Category_Image": "",
-        "Category_Name": "срезка",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 132
-      },
-      {
         "Category_ID": 57,
         "Category_Image": "",
-        "Category_Name": "вазы",
+        "Category_Name": "Вазы",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 133
@@ -169,7 +139,7 @@
       {
         "Category_ID": 58,
         "Category_Image": "",
-        "Category_Name": "пакеты",
+        "Category_Name": "Пакеты",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 134
@@ -177,7 +147,7 @@
       {
         "Category_ID": 59,
         "Category_Image": "",
-        "Category_Name": "комнатные растения",
+        "Category_Name": "Растения",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 135
@@ -185,7 +155,7 @@
       {
         "Category_ID": 60,
         "Category_Image": "",
-        "Category_Name": "свечи",
+        "Category_Name": "Свечи",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 136
@@ -193,114 +163,42 @@
       {
         "Category_ID": 61,
         "Category_Image": "",
-        "Category_Name": "воздушные шары",
+        "Category_Name": "Шары",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 137
       },
       {
-        "Category_ID": 62,
-        "Category_Image": "",
-        "Category_Name": "Доп.товары под реализацию",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 138
-      },
-      {
         "Category_ID": 63,
         "Category_Image": "",
-        "Category_Name": "сухоцветы",
+        "Category_Name": "Сухоцветы",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 139
       },
       {
-        "Category_ID": 64,
-        "Category_Image": "",
-        "Category_Name": "земля",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 140
-      },
-      {
         "Category_ID": 65,
         "Category_Image": "",
-        "Category_Name": "корзины",
+        "Category_Name": "Корзины",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 141
       },
       {
-        "Category_ID": 66,
-        "Category_Image": "",
-        "Category_Name": "кашпо",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 142
-      },
-      {
-        "Category_ID": 67,
-        "Category_Image": "",
-        "Category_Name": "Сайт на тильде",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 143
-      },
-      {
         "Category_ID": 68,
         "Category_Image": "",
-        "Category_Name": "открытки",
+        "Category_Name": "Открытки",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 144
       },
       {
-        "Category_ID": 69,
-        "Category_Image": "",
-        "Category_Name": "услуги",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 145
-      },
-      {
         "Category_ID": 70,
         "Category_Image": "",
-        "Category_Name": "сладкое",
+        "Category_Name": "Сладкое",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 146
-      },
-      {
-        "Category_ID": 71,
-        "Category_Image": "",
-        "Category_Name": "Тест",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 147
-      },
-      {
-        "Category_ID": 73,
-        "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
-        "Category_Name": "ТЕСТ",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 153
-      },
-      {
-        "Category_ID": 77,
-        "Category_Image": "https://noxer-test.ru/webapp/user_files/SUGARED-DONUT.png",
-        "Category_Name": "=)",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 100
-      },
-      {
-        "Category_ID": 78,
-        "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
-        "Category_Name": "ТЕСТ1",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 159
       },
       {
         "Category_ID": 158,
@@ -313,7 +211,7 @@
       {
         "Category_ID": 159,
         "Category_Image": "",
-        "Category_Name": "Супники Миски",
+        "Category_Name": "Супники/Миски",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 67
@@ -329,23 +227,15 @@
       {
         "Category_ID": 161,
         "Category_Image": "",
-        "Category_Name": "Пашотница Кодлер12ям",
+        "Category_Name": "Пашотница",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 69
       },
       {
-        "Category_ID": 162,
-        "Category_Image": "",
-        "Category_Name": "Копилки3ячсм",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 70
-      },
-      {
         "Category_ID": 163,
         "Category_Image": "",
-        "Category_Name": "Хлебница Корзинка",
+        "Category_Name": "Хлебница",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 71
@@ -353,7 +243,7 @@
       {
         "Category_ID": 164,
         "Category_Image": "",
-        "Category_Name": "Ложки2мя",
+        "Category_Name": "Ложки",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 72
@@ -361,7 +251,7 @@
       {
         "Category_ID": 165,
         "Category_Image": "",
-        "Category_Name": "Креманка1фыа",
+        "Category_Name": "Кофе",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 73
@@ -369,7 +259,7 @@
       {
         "Category_ID": 166,
         "Category_Image": "",
-        "Category_Name": "Детская посуда3фцуа",
+        "Category_Name": "Посуда",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 74
@@ -377,7 +267,7 @@
       {
         "Category_ID": 167,
         "Category_Image": "",
-        "Category_Name": "Настольные лампы1фыва",
+        "Category_Name": "Лампы",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 75
@@ -385,7 +275,7 @@
       {
         "Category_ID": 243,
         "Category_Image": "",
-        "Category_Name": "Вазыапыи",
+        "Category_Name": "Вазилин",
         "category_images": [],
         "parent_category_id": null,
         "sort_order": 13
@@ -393,7 +283,7 @@
       {
         "Category_ID": 244,
         "Category_Image": "",
-        "Category_Name": "Ведра для льдафЫВ",
+        "Category_Name": "Ведра",
         "category_images": [],
         "parent_category_id": null,
         "sort_order": 15
@@ -401,7 +291,7 @@
       {
         "Category_ID": 246,
         "Category_Image": "",
-        "Category_Name": "Кувшины Горшкияпаф",
+        "Category_Name": "Кувшины",
         "category_images": [],
         "parent_category_id": null,
         "sort_order": 1
@@ -409,7 +299,7 @@
       {
         "Category_ID": 247,
         "Category_Image": "",
-        "Category_Name": "Винтажные столовые приборы",
+        "Category_Name": "Строительство",
         "category_images": [],
         "parent_category_id": null,
         "sort_order": 2
@@ -417,7 +307,7 @@
       {
         "Category_ID": 248,
         "Category_Image": "",
-        "Category_Name": "Вилкичм",
+        "Category_Name": "Вилки",
         "category_images": [],
         "parent_category_id": 247,
         "sort_order": 3
@@ -425,7 +315,7 @@
       {
         "Category_ID": 249,
         "Category_Image": "",
-        "Category_Name": "Картины Книги",
+        "Category_Name": "Книги",
         "category_images": [],
         "parent_category_id": null,
         "sort_order": 24
@@ -433,7 +323,7 @@
       {
         "Category_ID": 262,
         "Category_Image": "",
-        "Category_Name": "Менажница3122",
+        "Category_Name": "Картины",
         "category_images": [],
         "parent_category_id": null,
         "sort_order": 44
@@ -441,77 +331,23 @@
       {
         "Category_ID": 263,
         "Category_Image": "",
-        "Category_Name": "Молочник Соусник1",
+        "Category_Name": "Молочник",
         "category_images": [],
         "parent_category_id": null,
         "sort_order": 56
       },
       {
-        "Category_ID": 272,
-        "Category_Image": "",
-        "Category_Name": "1231",
-        "category_images": null,
-        "parent_category_id": 271,
-        "sort_order": 168
-      },
-      {
-        "Category_ID": 90,
-        "Category_Image": "https://noxer-test.ru/webapp/user_files/100032817969b0.webp",
-        "Category_Name": "тестнрппарпрапрапрапрапрапрапрапрапрапрапрапрапрап",
-        "category_images": [
-          {
-            "name": "",
-            "type": "",
-            "url": "https://noxer-test.ru/webapp/user_files/11.jpeg"
-          }
-        ],
-        "parent_category_id": null,
-        "sort_order": 0
-      },
-      {
         "Category_ID": 240,
         "Category_Image": "",
-        "Category_Name": "ТарелкиЫВА",
+        "Category_Name": "Алкоголь",
         "category_images": [],
         "parent_category_id": null,
         "sort_order": 17
       },
       {
-        "Category_ID": 79,
-        "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
-        "Category_Name": "ТЕСТ2",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 157
-      },
-      {
-        "Category_ID": 80,
-        "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
-        "Category_Name": "ТЕСТ3",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 156
-      },
-      {
-        "Category_ID": 85,
-        "Category_Image": "",
-        "Category_Name": "Товары",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 160
-      },
-      {
-        "Category_ID": 89,
-        "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
-        "Category_Name": "546",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 155
-      },
-      {
         "Category_ID": 91,
         "Category_Image": "https://google.com/Portrait-of-a-cat-with-whiskers-visible.jpg",
-        "Category_Name": "ТЕСТ11",
+        "Category_Name": "Авто",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 158
@@ -519,7 +355,7 @@
       {
         "Category_ID": 93,
         "Category_Image": "",
-        "Category_Name": "YAMAL HERO",
+        "Category_Name": "Журналы",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 101
@@ -535,7 +371,7 @@
       {
         "Category_ID": 95,
         "Category_Image": "",
-        "Category_Name": "Шапки, перчатки, кепки",
+        "Category_Name": "Концтовары",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 103
@@ -543,7 +379,7 @@
       {
         "Category_ID": 96,
         "Category_Image": "",
-        "Category_Name": "Цех Ноябрьск",
+        "Category_Name": "Цех",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 104
@@ -567,7 +403,7 @@
       {
         "Category_ID": 133,
         "Category_Image": "",
-        "Category_Name": "Кувшин Графин21",
+        "Category_Name": "Графины",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 31
@@ -599,7 +435,7 @@
       {
         "Category_ID": 137,
         "Category_Image": "",
-        "Category_Name": "Аксессуары сервировки3213",
+        "Category_Name": "Аксессуары",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 40
@@ -615,7 +451,7 @@
       {
         "Category_ID": 139,
         "Category_Image": "",
-        "Category_Name": "Супница Террин Легумница",
+        "Category_Name": "Супница",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 43
@@ -623,7 +459,7 @@
       {
         "Category_ID": 140,
         "Category_Image": "",
-        "Category_Name": "Формы для духовки23",
+        "Category_Name": "Формы для духовки",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 45
@@ -631,7 +467,7 @@
       {
         "Category_ID": 141,
         "Category_Image": "",
-        "Category_Name": "Тарелки5",
+        "Category_Name": "Рюмка",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 46
@@ -639,7 +475,7 @@
       {
         "Category_ID": 142,
         "Category_Image": "",
-        "Category_Name": "Стакан Бокал Рюмка",
+        "Category_Name": "Стакан",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 48
@@ -647,7 +483,7 @@
       {
         "Category_ID": 143,
         "Category_Image": "",
-        "Category_Name": "Бокалы Стаканы Кружки",
+        "Category_Name": "Бокалы",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 49
@@ -663,7 +499,7 @@
       {
         "Category_ID": 145,
         "Category_Image": "",
-        "Category_Name": "Вазы3",
+        "Category_Name": "Десерты",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 52
@@ -671,7 +507,7 @@
       {
         "Category_ID": 146,
         "Category_Image": "",
-        "Category_Name": "Ведра для льда5",
+        "Category_Name": "Ведра для льда",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 53
@@ -679,7 +515,7 @@
       {
         "Category_ID": 147,
         "Category_Image": "",
-        "Category_Name": "Тазы Ведра",
+        "Category_Name": "Тазы",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 54
@@ -703,7 +539,7 @@
       {
         "Category_ID": 150,
         "Category_Image": "",
-        "Category_Name": "Кувшины Горшки2",
+        "Category_Name": "Стиллажи",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 58
@@ -711,7 +547,7 @@
       {
         "Category_ID": 151,
         "Category_Image": "",
-        "Category_Name": "Кашпо горшки",
+        "Category_Name": "Кашпо",
         "category_images": null,
         "parent_category_id": null,
         "sort_order": 59
@@ -765,17 +601,9 @@
         "sort_order": 65
       },
       {
-        "Category_ID": 227,
-        "Category_Image": "",
-        "Category_Name": "первый магаз",
-        "category_images": null,
-        "parent_category_id": null,
-        "sort_order": 162
-      },
-      {
         "Category_ID": 235,
         "Category_Image": "",
-        "Category_Name": "Шкатулки таблетницыфваф",
+        "Category_Name": "Шкатулки",
         "category_images": [],
         "parent_category_id": null,
         "sort_order": 7
@@ -783,15 +611,15 @@
       {
         "Category_ID": 237,
         "Category_Image": "",
-        "Category_Name": "Блюдачси",
+        "Category_Name": "Готовая еда",
         "category_images": [],
         "parent_category_id": null,
         "sort_order": 10
       },
       {
         "Category_ID": 239,
-        "Category_Image": "",
-        "Category_Name": "Аксессуары сервировкияываытп",
+        "Category_Image": "Плакаты",
+        "Category_Name": "",
         "category_images": [],
         "parent_category_id": null,
         "sort_order": 11
@@ -1718,7 +1546,7 @@
         "images": [
           {
             "Image_ID": 4873,
-            "Image_URL": "https://noxer-test.ru/webapp/user_files/100032817969b0.webp",
+            "Image_URL": "https://i.ibb.co/678zCg9D/images.jpg",
             "MainImage": true,
             "Product_ID": 797,
             "position": "product",
